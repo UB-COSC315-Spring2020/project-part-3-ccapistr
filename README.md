@@ -27,3 +27,8 @@ If your Library folder is not being ignored open your command line tool in your 
 then
 
 `git commit -m "Removed Library Folder from repository"`
+
+Reference for this project:
+https://github.com/SGTMcClain/jRPG_inspired
+catapult script: https://forum.unity.com/threads/how-to-calculate-force-needed-to-jump-towards-target-point.372288/
+UI script for inventory: https://www.youtube.com/watch?v=nu5nyrB9U_o&list=PLPV2KyIb3jR4KLGCCAciWQ5qHudKtYeP7 
